@@ -6,12 +6,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Building+things+that+matter+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+Angular;3D+Web+Experiences+with+Three.js;SEO+%2B+Code+%3D+Real+Results;Open+to+new+opportunities+%F0%9F%8C%9F" alt="Typing SVG" />
 </a>
 <br/>
+
 <!-- Profile Views + Social Badges -->
 ![Profile Views](https://komarev.com/ghpvc/?username=deneth-rajapaksha&color=7c3aed&style=flat-square&label=PROFILE+VIEWS)
 [![Portfolio](https://img.shields.io/badge/Portfolio-denethrajapaksha.com-7c3aed?style=flat-square&logo=google-chrome&logoColor=white)](https://www.denethrajapaksha.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deneth-rajapaksha-91248826a/)
-[![Email](https://img.shields.io/badge/Email-deneth.private@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:deneth.private@gmail.com)
- 
+[![Email](https://img.shields.io/badge/Email-deneth.private@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:deneth.private@gmail.com) 
 </div>
 ---
  
