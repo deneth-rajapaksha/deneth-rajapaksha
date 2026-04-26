@@ -1,27 +1,22 @@
 <div align="center">
-
 <!-- Animated Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Deneth%20Rajapaksha&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20SEO%20Specialist%20%7C%20Digital%20Craftsman&descAlignY=58&descSize=18&animation=fadeIn" />
-
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+things+that+matter+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+Angular+Dev;3D+Web+Experiences+with+Three.js;SEO+%2B+Code+%3D+Results+that+speak;Open+to+exciting+opportunities+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Building+things+that+matter+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+Angular;3D+Web+Experiences+with+Three.js;SEO+%2B+Code+%3D+Real+Results;Open+to+new+opportunities+%F0%9F%8C%9F" alt="Typing SVG" />
 </a>
-
 <br/>
-
 <!-- Profile Views + Social Badges -->
 ![Profile Views](https://komarev.com/ghpvc/?username=deneth-rajapaksha&color=7c3aed&style=flat-square&label=PROFILE+VIEWS)
 [![Portfolio](https://img.shields.io/badge/Portfolio-denethrajapaksha.com-7c3aed?style=flat-square&logo=google-chrome&logoColor=white)](https://www.denethrajapaksha.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deneth-rajapaksha-91248826a/)
 [![Email](https://img.shields.io/badge/Email-deneth.private@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:deneth.private@gmail.com)
-
+ 
 </div>
-
 ---
-
-##  About Me
-
+ 
+## 🧠 About Me
+ 
 ```typescript
 const deneth = {
   location: "Matale, Sri Lanka 🇱🇰",
@@ -29,25 +24,27 @@ const deneth = {
   currentFocus: "Full-Stack Development + Freelancing",
   languages: ["Sinhala 🇱🇰", "English 🇬🇧", "Chinese (Intermediate) 🇨🇳"],
   superpower: "Turning caffeine into code — and code into results",
-
+ 
   techStack: {
     backend:   ["Java", "Spring Boot", "PostgreSQL", "MySQL", "REST APIs"],
     frontend:  ["Angular", "TypeScript", "Three.js", "Tailwind CSS", "HTML5", "CSS3"],
     tools:     ["Git", "JavaFX", "Headless WordPress", "Google Gemini API"],
     bonus:     ["SEO", "Digital Marketing", "Graphic Design", "AI Literacy"],
   },
-
+ 
   achievements: [
-    " 150% annual sales growth at a 4-star resort",
-    " 50–60% off-season occupancy (target was 30–40%)",
-    " 40% increase in direct bookings via SEO",
-    " 40% faster LMS load times with Headless CMS",
+    "📈 150% annual sales growth at a 4-star resort",
+    "🏨 50–60% off-season occupancy (target was 30–40%)",
+    "🔍 40% increase in direct bookings via SEO",
+    "⚡ 40% faster LMS load times with Headless CMS",
   ],
-
+ 
   currentlyBuilding: "Websites & webapps merging dev + SEO + digital marketing",
   openTo: "Full-time roles, internships & exciting freelance projects",
 };
 ```
+ 
+---
 
 ---
 
