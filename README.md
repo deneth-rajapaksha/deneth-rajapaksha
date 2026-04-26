@@ -11,37 +11,6 @@
 
 ---
 
-## 🧠 About Me
-
-```typescript
-const deneth = {
-  location: "Matale, Sri Lanka 🇱🇰",
-  education: "BIT Undergraduate @ HDIT Level",
-  currentFocus: "Full-Stack Development + Freelancing",
-  languages: ["Sinhala 🇱🇰", "English 🇬🇧", "Chinese (Intermediate) 🇨🇳"],
-  superpower: "Turning caffeine into code — and code into results",
-
-  techStack: {
-    backend:   ["Java", "Spring Boot", "PostgreSQL", "MySQL", "REST APIs"],
-    frontend:  ["Angular", "TypeScript", "Three.js", "Tailwind CSS", "HTML5", "CSS3"],
-    tools:     ["Git", "JavaFX", "Headless WordPress", "Google Gemini API"],
-    bonus:     ["SEO", "Digital Marketing", "Graphic Design", "AI Literacy"],
-  },
-
-  achievements: [
-    "📈 150% annual sales growth at a 4-star resort",
-    "🏨 50–60% off-season occupancy (target was 30–40%)",
-    "🔍 40% increase in direct bookings via SEO",
-    "⚡ 40% faster LMS load times with Headless CMS",
-  ],
-
-  currentlyBuilding: "Websites & webapps merging dev + SEO + digital marketing",
-  openTo: "Full-time roles, internships & exciting freelance projects",
-};
-```
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
